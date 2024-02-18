@@ -1,0 +1,9 @@
+jokes:
+  host: https://official-joke-api.appspot.com
+  
+server:
+  port: 8080
+  
+restTemplate:
+  connectionRequestTimeOut: 3000
+  connectTimeOut: 3000
